@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Deepl translator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+POC for text highlight translations
+
+[Deployed here](https://main.d1mycp5muo1sfx.amplifyapp.com/)
+
+## Built with
+
+- React
+- DeepL API
+- AWS Lambda
 
 ## Available Scripts
 
